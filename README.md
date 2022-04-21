@@ -3,6 +3,7 @@
 [![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-jwangathan/branch/master/graph/badge.svg?token=9pLrLOOHxu)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-jwangathan)
 
 Storybook is here:
+* Repo: <https://github.com/ucsb-cs156-s22/jpa03-jwangathan>
 * Production: <https://ucsb-cs156-s22.github.io/jpa03-jwangathan-docs/>
 * QA:  <https://ucsb-cs156-s22.github.io/jpa03-jwangathan-docs-qa/>
 
