@@ -1,6 +1,6 @@
 # demo-spring-react-example-v2: dsre-v2
 
-[![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-jwangathan/branch/master/graph/badge.svg?token=9pLrLOOHxu)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-jwangathan)
+[![codecov](https://codecov.io/gh/ucsb-cs156-s22/jpa03-jwangathan/branch/main/graph/badge.svg?token=9pLrLOOHxu)](https://codecov.io/gh/ucsb-cs156-s22/jpa03-jwangathan)
 
 Storybook is here:
 * Repo: <https://github.com/ucsb-cs156-s22/jpa03-jwangathan>
